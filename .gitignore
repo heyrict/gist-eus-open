@@ -1,0 +1,14 @@
+# Data: vendors
+tmp_vendors_search
+
+# Data: csv
+*.csv
+
+# Outputs
+outputs-*
+tables
+*.pdf
+*.docx
+
+# Python
+.ipynb_checkpoints/
